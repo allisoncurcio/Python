@@ -1,7 +1,7 @@
 """
 Name: Allison Curcio
 CS230: Section 5
-Data: Skyscraper
+Data: Skyscrapers
 Description: This program is intended for a engineer developer interested in looking at previous skyscraper projects.
 The user can come into the application, select multiple cities, the maximum number in a range of floors in a skyscraper,
 the minimum number in a range of years, and the type of material the skyscraper is made of. From there, the
